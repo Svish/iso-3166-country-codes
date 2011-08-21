@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @version  2010-09-26
+  * @version  2010-12-15
   * @link     http://www.geekality.net/?p=1182
   * @link     http://en.wikipedia.org/wiki/List_of_soveriegn_states_and_dependent_territories_by_continent_(data_file)
   * @link     http://www.iso.org/iso/country_codes/updates_on_iso_3166.htm
@@ -62,6 +62,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('BM', 'NA', "Bermuda", 'BMU', '060', "Bermuda"),
   ('BT', 'AS', "Bhutan", 'BTN', '064', "Kingdom of Bhutan"),
   ('BO', 'SA', "Bolivia", 'BOL', '068', "Plurinational State of Bolivia"),
+  ('BQ', 'NA', "Bonaire, Saint Eustatius and Saba", 'BES', '535', "Bonaire, Saint Eustatius and Saba"),
   ('BA', 'EU', "Bosnia and Herzegovina", 'BIH', '070', "Bosnia and Herzegovina"),
   ('BW', 'AF', "Botswana", 'BWA', '072', "Republic of Botswana"),
   ('BV', 'AN', "Bouvet Island (Bouvetoya)", 'BVT', '074', "Bouvet Island (Bouvetoya)"),
@@ -92,6 +93,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('CI', 'AF', "Cote d'Ivoire", 'CIV', '384', "Republic of Cote d'Ivoire"),
   ('HR', 'EU', "Croatia", 'HRV', '191', "Republic of Croatia"),
   ('CU', 'NA', "Cuba", 'CUB', '192', "Republic of Cuba"),
+  ('CW', 'NA', "Curaçao", 'CUW', '531', "Curaçao"),
   ('CY', 'AS', "Cyprus", 'CYP', '196', "Republic of Cyprus"),
   ('CZ', 'EU', "Czech Republic", 'CZE', '203', "Czech Republic"),
   ('DK', 'EU', "Denmark", 'DNK', '208', "Kingdom of Denmark"),
@@ -190,7 +192,6 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('NA', 'AF', "Namibia", 'NAM', '516', "Republic of Namibia"),
   ('NR', 'OC', "Nauru", 'NRU', '520', "Republic of Nauru"),
   ('NP', 'AS', "Nepal", 'NPL', '524', "Federal Democratic Republic of Nepal"),
-  ('AN', 'NA', "Netherlands Antilles", 'ANT', '530', "Netherlands Antilles"),
   ('NL', 'EU', "Netherlands", 'NLD', '528', "Kingdom of the Netherlands"),
   ('NC', 'OC', "New Caledonia", 'NCL', '540', "New Caledonia"),
   ('NZ', 'OC', "New Zealand", 'NZL', '554', "New Zealand"),
@@ -235,6 +236,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('SC', 'AF', "Seychelles", 'SYC', '690', "Republic of Seychelles"),
   ('SL', 'AF', "Sierra Leone", 'SLE', '694', "Republic of Sierra Leone"),
   ('SG', 'AS', "Singapore", 'SGP', '702', "Republic of Singapore"),
+  ('SX', 'NA', "Sint Maarten (Dutch part)", 'SXM', '534', "Sint Maarten (Dutch part)"),
   ('SK', 'EU', "Slovakia (Slovak Republic)", 'SVK', '703', "Slovakia (Slovak Republic)"),
   ('SI', 'EU', "Slovenia", 'SVN', '705', "Republic of Slovenia"),
   ('SB', 'OC', "Solomon Islands", 'SLB', '090', "Solomon Islands"),
