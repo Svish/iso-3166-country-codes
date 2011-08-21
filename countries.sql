@@ -4,6 +4,7 @@
   * @version  2010-09-26
   * @link     http://www.geekality.net/?p=1182
   * @link     http://en.wikipedia.org/wiki/List_of_soveriegn_states_and_dependent_territories_by_continent_(data_file)
+  * @link     http://www.iso.org/iso/country_codes/updates_on_iso_3166.htm
   */
 CREATE TABLE IF NOT EXISTS `continents` (
   `code` CHAR(2) NOT NULL COMMENT 'Continent code',
@@ -214,15 +215,15 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('PT', 'EU', "Portugal", 'PRT', '620', "Portuguese Republic"),
   ('PR', 'NA', "Puerto Rico", 'PRI', '630', "Commonwealth of Puerto Rico"),
   ('QA', 'AS', "Qatar", 'QAT', '634', "State of Qatar"),
-  ('RE', 'AF', "Reunion", 'REU', '638', "Reunion"),
+  ('RE', 'AF', "Réunion", 'REU', '638', "Réunion"),
   ('RO', 'EU', "Romania", 'ROU', '642', "Romania"),
   ('RU', 'EU', "Russian Federation", 'RUS', '643', "Russian Federation"),
   ('RW', 'AF', "Rwanda", 'RWA', '646', "Republic of Rwanda"),
-  ('BL', 'NA', "Saint Barthélemy", 'BLM', '652', "Saint Barthelemy"),
+  ('BL', 'NA', "Saint Barthélemy", 'BLM', '652', "Saint Barthélemy"),
   ('SH', 'AF', "Saint Helena", 'SHN', '654', "Saint Helena"),
   ('KN', 'NA', "Saint Kitts and Nevis", 'KNA', '659', "Federation of Saint Kitts and Nevis"),
   ('LC', 'NA', "Saint Lucia", 'LCA', '662', "Saint Lucia"),
-  ('MF', 'NA', "Saint Martin", 'MAF', '663', "Saint Martin"),
+  ('MF', 'NA', "Saint Martin", 'MAF', '663', "Saint Martin (French part)"),
   ('PM', 'NA', "Saint Pierre and Miquelon", 'SPM', '666', "Saint Pierre and Miquelon"),
   ('VC', 'NA', "Saint Vincent and the Grenadines", 'VCT', '670', "Saint Vincent and the Grenadines"),
   ('WS', 'OC', "Samoa", 'WSM', '882', "Independent State of Samoa"),
