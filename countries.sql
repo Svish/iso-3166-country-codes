@@ -3,8 +3,7 @@
   *
   * @version  2011-08-09
   * @link     http://www.geekality.net/?p=1182
-  * @link     http://en.wikipedia.org/wiki/List_of_soveriegn_states_and_dependent_territories_by_continent_(data_file)
-  * @link     http://www.iso.org/iso/country_codes/updates_on_iso_3166.htm
+  * @link     https://bitbucket.org/svish/iso-3166-country-codes
   */
 CREATE TABLE IF NOT EXISTS `continents` (
   `code` CHAR(2) NOT NULL COMMENT 'Continent code',
