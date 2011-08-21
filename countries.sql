@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @version  2011-07-14
+  * @version  2011-08-09
   * @link     http://www.geekality.net/?p=1182
   * @link     http://en.wikipedia.org/wiki/List_of_soveriegn_states_and_dependent_territories_by_continent_(data_file)
   * @link     http://www.iso.org/iso/country_codes/updates_on_iso_3166.htm
@@ -243,9 +243,10 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('SO', 'AF', "Somalia", 'SOM', '706', "Somali Republic"),
   ('ZA', 'AF', "South Africa", 'ZAF', '710', "Republic of South Africa"),
   ('GS', 'AN', "South Georgia and the South Sandwich Islands", 'SGS', '239', "South Georgia and the South Sandwich Islands"),
+  ('SS', 'AF', "South Sudan", 'SSD', '728', "Republic of South Sudan"),
   ('ES', 'EU', "Spain", 'ESP', '724', "Kingdom of Spain"),
   ('LK', 'AS', "Sri Lanka", 'LKA', '144', "Democratic Socialist Republic of Sri Lanka"),
-  ('SD', 'AF', "Sudan", 'SDN', '736', "Republic of Sudan"),
+  ('SD', 'AF', "Sudan", 'SDN', '729', "Republic of Sudan"),
   ('SR', 'SA', "Suriname", 'SUR', '740', "Republic of Suriname"),
   ('SJ', 'EU', "Svalbard & Jan Mayen Islands", 'SJM', '744', "Svalbard & Jan Mayen Islands"),
   ('SZ', 'AF', "Swaziland", 'SWZ', '748', "Kingdom of Swaziland"),
