@@ -61,7 +61,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('BJ', 'AF', "Benin", 'BEN', '204', "Republic of Benin"),
   ('BM', 'NA', "Bermuda", 'BMU', '060', "Bermuda"),
   ('BT', 'AS', "Bhutan", 'BTN', '064', "Kingdom of Bhutan"),
-  ('BO', 'SA', "Bolivia", 'BOL', '068', "Republic of Bolivia"),
+  ('BO', 'SA', "Bolivia", 'BOL', '068', "Plurinational State of Bolivia"),
   ('BA', 'EU', "Bosnia and Herzegovina", 'BIH', '070', "Bosnia and Herzegovina"),
   ('BW', 'AF', "Botswana", 'BWA', '072', "Republic of Botswana"),
   ('BV', 'AN', "Bouvet Island (Bouvetoya)", 'BVT', '074', "Bouvet Island (Bouvetoya)"),
