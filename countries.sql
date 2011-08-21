@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @version  2010-12-15
+  * @version  2011-07-14
   * @link     http://www.geekality.net/?p=1182
   * @link     http://en.wikipedia.org/wiki/List_of_soveriegn_states_and_dependent_territories_by_continent_(data_file)
   * @link     http://www.iso.org/iso/country_codes/updates_on_iso_3166.htm
@@ -62,7 +62,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('BM', 'NA', "Bermuda", 'BMU', '060', "Bermuda"),
   ('BT', 'AS', "Bhutan", 'BTN', '064', "Kingdom of Bhutan"),
   ('BO', 'SA', "Bolivia", 'BOL', '068', "Plurinational State of Bolivia"),
-  ('BQ', 'NA', "Bonaire, Saint Eustatius and Saba", 'BES', '535', "Bonaire, Saint Eustatius and Saba"),
+  ('BQ', 'NA', "Bonaire, Sint Eustatius and Saba", 'BES', '535', "Bonaire, Sint Eustatius and Saba"),
   ('BA', 'EU', "Bosnia and Herzegovina", 'BIH', '070', "Bosnia and Herzegovina"),
   ('BW', 'AF', "Botswana", 'BWA', '072', "Republic of Botswana"),
   ('BV', 'AN', "Bouvet Island (Bouvetoya)", 'BVT', '074', "Bouvet Island (Bouvetoya)"),
@@ -109,7 +109,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('ET', 'AF', "Ethiopia", 'ETH', '231', "Federal Democratic Republic of Ethiopia"),
   ('FO', 'EU', "Faroe Islands", 'FRO', '234', "Faroe Islands"),
   ('FK', 'SA', "Falkland Islands (Malvinas)", 'FLK', '238', "Falkland Islands (Malvinas)"),
-  ('FJ', 'OC', "Fiji", 'FJI', '242', "Republic of the Fiji Islands"),
+  ('FJ', 'OC', "Fiji", 'FJI', '242', "Republic of Fiji"),
   ('FI', 'EU', "Finland", 'FIN', '246', "Republic of Finland"),
   ('FR', 'EU', "France", 'FRA', '250', "French Republic"),
   ('GF', 'SA', "French Guiana", 'GUF', '254', "French Guiana"),
@@ -188,7 +188,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('MS', 'NA', "Montserrat", 'MSR', '500', "Montserrat"),
   ('MA', 'AF', "Morocco", 'MAR', '504', "Kingdom of Morocco"),
   ('MZ', 'AF', "Mozambique", 'MOZ', '508', "Republic of Mozambique"),
-  ('MM', 'AS', "Myanmar", 'MMR', '104', "Union of Myanmar"),
+  ('MM', 'AS', "Myanmar", 'MMR', '104', "Republic of the Union of Myanmar"),
   ('NA', 'AF', "Namibia", 'NAM', '516', "Republic of Namibia"),
   ('NR', 'OC', "Nauru", 'NRU', '520', "Republic of Nauru"),
   ('NP', 'AS', "Nepal", 'NPL', '524', "Federal Democratic Republic of Nepal"),
