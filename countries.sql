@@ -182,7 +182,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('MD', 'EU', "Moldova", 'MDA', '498', "Republic of Moldova"),
   ('MC', 'EU', "Monaco", 'MCO', '492', "Principality of Monaco"),
   ('MN', 'AS', "Mongolia", 'MNG', '496', "Mongolia"),
-  ('ME', 'EU', "Montenegro", 'MNE', '499', "Republic of Montenegro"),
+  ('ME', 'EU', "Montenegro", 'MNE', '499', "Montenegro"),
   ('MS', 'NA', "Montserrat", 'MSR', '500', "Montserrat"),
   ('MA', 'AF', "Morocco", 'MAR', '504', "Kingdom of Morocco"),
   ('MZ', 'AF', "Mozambique", 'MOZ', '508', "Republic of Mozambique"),
