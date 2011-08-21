@@ -189,7 +189,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('MM', 'AS', "Myanmar", 'MMR', '104', "Union of Myanmar"),
   ('NA', 'AF', "Namibia", 'NAM', '516', "Republic of Namibia"),
   ('NR', 'OC', "Nauru", 'NRU', '520', "Republic of Nauru"),
-  ('NP', 'AS', "Nepal", 'NPL', '524', "State of Nepal"),
+  ('NP', 'AS', "Nepal", 'NPL', '524', "Federal Democratic Republic of Nepal"),
   ('AN', 'NA', "Netherlands Antilles", 'ANT', '530', "Netherlands Antilles"),
   ('NL', 'EU', "Netherlands", 'NLD', '528', "Kingdom of the Netherlands"),
   ('NC', 'OC', "New Caledonia", 'NCL', '540', "New Caledonia"),
