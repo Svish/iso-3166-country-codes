@@ -220,7 +220,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('RU', 'EU', "Russian Federation", 'RUS', '643', "Russian Federation"),
   ('RW', 'AF', "Rwanda", 'RWA', '646', "Republic of Rwanda"),
   ('BL', 'NA', "Saint Barthélemy", 'BLM', '652', "Saint Barthélemy"),
-  ('SH', 'AF', "Saint Helena", 'SHN', '654', "Saint Helena"),
+  ('SH', 'AF', "Saint Helena, Ascension and Tristan da Cunha", 'SHN', '654', "Saint Helena, Ascension and Tristan da Cunha"),
   ('KN', 'NA', "Saint Kitts and Nevis", 'KNA', '659', "Federation of Saint Kitts and Nevis"),
   ('LC', 'NA', "Saint Lucia", 'LCA', '662', "Saint Lucia"),
   ('MF', 'NA', "Saint Martin", 'MAF', '663', "Saint Martin (French part)"),
