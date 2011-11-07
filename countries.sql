@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2011-08-09
+  * @updated  2011-11-07
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes/src/default/countries.sql
   */
@@ -252,7 +252,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('SE', 'EU', "Sweden", 'SWE', '752', "Kingdom of Sweden"),
   ('CH', 'EU', "Switzerland", 'CHE', '756', "Swiss Confederation"),
   ('SY', 'AS', "Syrian Arab Republic", 'SYR', '760', "Syrian Arab Republic"),
-  ('TW', 'AS', "Taiwan", 'TWN', '158', "Taiwan"),
+  ('TW', 'AS', "Taiwan", 'TWN', '158', "Taiwan, Province of China"),
   ('TJ', 'AS', "Tajikistan", 'TJK', '762', "Republic of Tajikistan"),
   ('TZ', 'AF', "Tanzania", 'TZA', '834', "United Republic of Tanzania"),
   ('TH', 'AS', "Thailand", 'THA', '764', "Kingdom of Thailand"),
