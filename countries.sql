@@ -3,7 +3,7 @@
   *
   * @updated  2011-11-07
   * @link     http://www.geekality.net/?p=1182
-  * @link     https://bitbucket.org/svish/iso-3166-country-codes/src/default/countries.sql
+  * @link     https://bitbucket.org/svish/iso-3166-country-codes
   */
 CREATE TABLE IF NOT EXISTS `continents` (
   `code` CHAR(2) NOT NULL COMMENT 'Continent code',
