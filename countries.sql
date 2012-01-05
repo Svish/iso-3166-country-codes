@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2011-11-07
+  * @updated  2012-01-05
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   */
@@ -161,7 +161,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('LB', 'AS', "Lebanon", 'LBN', '422', "Lebanese Republic"),
   ('LS', 'AF', "Lesotho", 'LSO', '426', "Kingdom of Lesotho"),
   ('LR', 'AF', "Liberia", 'LBR', '430', "Republic of Liberia"),
-  ('LY', 'AF', "Libyan Arab Jamahiriya", 'LBY', '434', "Libyan Arab Jamahiriya"),
+  ('LY', 'AF', "Libya", 'LBY', '434', "Libya"),
   ('LI', 'EU', "Liechtenstein", 'LIE', '438', "Principality of Liechtenstein"),
   ('LT', 'EU', "Lithuania", 'LTU', '440', "Republic of Lithuania"),
   ('LU', 'EU', "Luxembourg", 'LUX', '442', "Grand Duchy of Luxembourg"),
