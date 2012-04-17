@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2012-01-05
+  * @updated  2012-04-17
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   */
@@ -135,7 +135,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('VA', 'EU', "Holy See (Vatican City State)", 'VAT', '336', "Holy See (Vatican City State)"),
   ('HN', 'NA', "Honduras", 'HND', '340', "Republic of Honduras"),
   ('HK', 'AS', "Hong Kong", 'HKG', '344', "Hong Kong Special Administrative Region of China"),
-  ('HU', 'EU', "Hungary", 'HUN', '348', "Republic of Hungary"),
+  ('HU', 'EU', "Hungary", 'HUN', '348', "Hungary"),
   ('IS', 'EU', "Iceland", 'ISL', '352', "Republic of Iceland"),
   ('IN', 'AS', "India", 'IND', '356', "Republic of India"),
   ('ID', 'AS', "Indonesia", 'IDN', '360', "Republic of Indonesia"),
