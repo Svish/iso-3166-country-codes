@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2012-04-17
+  * @updated  2013-02-14
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   */
@@ -204,7 +204,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('OM', 'AS', "Oman", 'OMN', '512', "Sultanate of Oman"),
   ('PK', 'AS', "Pakistan", 'PAK', '586', "Islamic Republic of Pakistan"),
   ('PW', 'OC', "Palau", 'PLW', '585', "Republic of Palau"),
-  ('PS', 'AS', "Palestinian Territory", 'PSE', '275', "Occupied Palestinian Territory"),
+  ('PS', 'AS', "Palestine", 'PSE', '275', "State of Palestine"),
   ('PA', 'NA', "Panama", 'PAN', '591', "Republic of Panama"),
   ('PG', 'OC', "Papua New Guinea", 'PNG', '598', "Independent State of Papua New Guinea"),
   ('PY', 'SA', "Paraguay", 'PRY', '600', "Republic of Paraguay"),
