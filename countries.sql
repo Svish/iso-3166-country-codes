@@ -1,9 +1,10 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2013-02-14
+  * @updated  2013-05-13
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
+  *
   */
 CREATE TABLE IF NOT EXISTS `continents` (
   `code` CHAR(2) NOT NULL COMMENT 'Continent code',
