@@ -240,7 +240,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('SK', 'EU', "Slovakia (Slovak Republic)", 'SVK', '703', "Slovakia (Slovak Republic)"),
   ('SI', 'EU', "Slovenia", 'SVN', '705', "Republic of Slovenia"),
   ('SB', 'OC', "Solomon Islands", 'SLB', '090', "Solomon Islands"),
-  ('SO', 'AF', "Somalia", 'SOM', '706', "Somali Republic"),
+  ('SO', 'AF', "Somalia", 'SOM', '706', "Federal Republic of Somalia"),
   ('ZA', 'AF', "South Africa", 'ZAF', '710', "Republic of South Africa"),
   ('GS', 'AN', "South Georgia and the South Sandwich Islands", 'SGS', '239', "South Georgia and the South Sandwich Islands"),
   ('SS', 'AF', "South Sudan", 'SSD', '728', "Republic of South Sudan"),
