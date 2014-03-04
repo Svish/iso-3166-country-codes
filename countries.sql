@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2013-07-25
+  * @updated  2014-03-04
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
@@ -76,7 +76,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('KH', 'AS', "Cambodia", 'KHM', '116', "Kingdom of Cambodia"),
   ('CM', 'AF', "Cameroon", 'CMR', '120', "Republic of Cameroon"),
   ('CA', 'NA', "Canada", 'CAN', '124', "Canada"),
-  ('CV', 'AF', "Cape Verde", 'CPV', '132', "Republic of Cape Verde"),
+  ('CV', 'AF', "Cabo Verde", 'CPV', '132', "Republic of Cabo Verde"),
   ('KY', 'NA', "Cayman Islands", 'CYM', '136', "Cayman Islands"),
   ('CF', 'AF', "Central African Republic", 'CAF', '140', "Central African Republic"),
   ('TD', 'AF', "Chad", 'TCD', '148', "Republic of Chad"),
