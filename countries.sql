@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2014-03-04
+  * @updated  2014-04-18
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
@@ -65,7 +65,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('BQ', 'NA', "Bonaire, Sint Eustatius and Saba", 'BES', '535', "Bonaire, Sint Eustatius and Saba"),
   ('BA', 'EU', "Bosnia and Herzegovina", 'BIH', '070', "Bosnia and Herzegovina"),
   ('BW', 'AF', "Botswana", 'BWA', '072', "Republic of Botswana"),
-  ('BV', 'AN', "Bouvet Island (Bouvetoya)", 'BVT', '074', "Bouvet Island (Bouvetoya)"),
+  ('BV', 'AN', "Bouvet Island (Bouvetøya)", 'BVT', '074', "Bouvet Island (Bouvetøya)"),
   ('BR', 'SA', "Brazil", 'BRA', '076', "Federative Republic of Brazil"),
   ('IO', 'AS', "British Indian Ocean Territory (Chagos Archipelago)", 'IOT', '086', "British Indian Ocean Territory (Chagos Archipelago)"),
   ('VG', 'NA', "British Virgin Islands", 'VGB', '092', "British Virgin Islands"),
