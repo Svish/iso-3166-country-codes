@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2015-08-05
+  * @updated  2015-12-01
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
@@ -121,7 +121,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('DE', 'EU', "Germany", 'DEU', '276', "Federal Republic of Germany"),
   ('GH', 'AF', "Ghana", 'GHA', '288', "Republic of Ghana"),
   ('GI', 'EU', "Gibraltar", 'GIB', '292', "Gibraltar"),
-  ('GR', 'EU', "Greece", 'GRC', '300', "Hellenic Republic Greece"),
+  ('GR', 'EU', "Greece", 'GRC', '300', "Hellenic Republic of Greece"),
   ('GL', 'NA', "Greenland", 'GRL', '304', "Greenland"),
   ('GD', 'NA', "Grenada", 'GRD', '308', "Grenada"),
   ('GP', 'NA', "Guadeloupe", 'GLP', '312', "Guadeloupe"),
