@@ -8,3 +8,5 @@ Needed one a while ago, but the ones I found were either kind of lacking or kind
 I have also subscribed to their updates and try to follow up when they change anything.
 
 If you find any mistakes or updates I've missed, _please let me know_ :)
+
+![clicky](https://in.getclicky.com/147983ns.gif)
