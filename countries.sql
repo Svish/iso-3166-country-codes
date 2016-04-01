@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2015-12-01
+  * @updated  2016-03-31
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
@@ -116,7 +116,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('PF', 'OC', "French Polynesia", 'PYF', '258', "French Polynesia"),
   ('TF', 'AN', "French Southern Territories", 'ATF', '260', "French Southern Territories"),
   ('GA', 'AF', "Gabon", 'GAB', '266', "Gabonese Republic"),
-  ('GM', 'AF', "Gambia", 'GMB', '270', "Republic of the Gambia"),
+  ('GM', 'AF', "Gambia", 'GMB', '270', "Islamic Republic of the Gambia"),
   ('GE', 'AS', "Georgia", 'GEO', '268', "Georgia"),
   ('DE', 'EU', "Germany", 'DEU', '276', "Federal Republic of Germany"),
   ('GH', 'AF', "Ghana", 'GHA', '288', "Republic of Ghana"),
