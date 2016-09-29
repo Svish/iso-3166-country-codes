@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2016-08-09
+  * @updated  2016-09-29
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
@@ -95,7 +95,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('CU', 'NA', "Cuba", 'CUB', '192', "Republic of Cuba"),
   ('CW', 'NA', "Curaçao", 'CUW', '531', "Curaçao"),
   ('CY', 'AS', "Cyprus", 'CYP', '196', "Republic of Cyprus"),
-  ('CZ', 'EU', "Czech Republic", 'CZE', '203', "Czech Republic"),
+  ('CZ', 'EU', "Czechia", 'CZE', '203', "Czech Republic"),
   ('DK', 'EU', "Denmark", 'DNK', '208', "Kingdom of Denmark"),
   ('DJ', 'AF', "Djibouti", 'DJI', '262', "Republic of Djibouti"),
   ('DM', 'NA', "Dominica", 'DMA', '212', "Commonwealth of Dominica"),
