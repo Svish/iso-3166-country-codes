@@ -6,7 +6,7 @@
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
   */
-CREATE TABLE IF NOT EXISTS `continents` (
+CREATE TABLE `continents` (
   `code` CHAR(2) NOT NULL COMMENT 'Continent code',
   `name` VARCHAR(255),
   PRIMARY KEY (`code`)
@@ -22,7 +22,7 @@ INSERT INTO `continents` VALUES
   ('AN', 'Antarctica');
 
 
-CREATE TABLE IF NOT EXISTS `countries` (
+CREATE TABLE `countries` (
   `code` CHAR(2) NOT NULL COMMENT 'Two-letter country code (ISO 3166-1 alpha-2)',
   `name` VARCHAR(255) NOT NULL COMMENT 'English country name',
   `full_name` VARCHAR(255) NOT NULL COMMENT 'Full English country name',
