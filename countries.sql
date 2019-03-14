@@ -3,7 +3,7 @@
   *
   * @updated  2019-03-14
   * @link     http://www.geekality.net/?p=1182
-  * @link     https://bitbucket.org/svish/iso-3166-country-codes
+  * @link     https://github.com/Svish/iso-3166-country-codes
   *
   */
 CREATE TABLE `continents` (
