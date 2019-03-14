@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2019-02-17
+  * @updated  2019-03-14
   * @link     http://www.geekality.net/?p=1182
   * @link     https://bitbucket.org/svish/iso-3166-country-codes
   *
@@ -167,7 +167,6 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('LT', 'EU', "Lithuania", 'LTU', '440', "Republic of Lithuania"),
   ('LU', 'EU', "Luxembourg", 'LUX', '442', "Grand Duchy of Luxembourg"),
   ('MO', 'AS', "Macao", 'MAC', '446', "Macao Special Administrative Region of China"),
-  ('MK', 'EU', "Macedonia", 'MKD', '807', "Republic of Macedonia"),
   ('MG', 'AF', "Madagascar", 'MDG', '450', "Republic of Madagascar"),
   ('MW', 'AF', "Malawi", 'MWI', '454', "Republic of Malawi"),
   ('MY', 'AS', "Malaysia", 'MYS', '458', "Malaysia"),
@@ -200,6 +199,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('NG', 'AF', "Nigeria", 'NGA', '566', "Federal Republic of Nigeria"),
   ('NU', 'OC', "Niue", 'NIU', '570', "Niue"),
   ('NF', 'OC', "Norfolk Island", 'NFK', '574', "Norfolk Island"),
+  ('MK', 'EU', "North Macedonia", 'MKD', '807', "Republic of North Macedonia"),
   ('MP', 'OC', "Northern Mariana Islands", 'MNP', '580', "Commonwealth of the Northern Mariana Islands"),
   ('NO', 'EU', "Norway", 'NOR', '578', "Kingdom of Norway"),
   ('OM', 'AS', "Oman", 'OMN', '512', "Sultanate of Oman"),
