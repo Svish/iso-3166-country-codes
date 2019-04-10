@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2019-03-14
+  * @updated  2019-04-10
   * @link     http://www.geekality.net/?p=1182
   * @link     https://github.com/Svish/iso-3166-country-codes
   *
