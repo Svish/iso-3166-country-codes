@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2019-04-10
+  * @updated  2019-11-23
   * @link     http://www.geekality.net/?p=1182
   * @link     https://github.com/Svish/iso-3166-country-codes
   *
@@ -145,7 +145,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('IE', 'EU', "Ireland", 'IRL', '372', "Ireland"),
   ('IM', 'EU', "Isle of Man", 'IMN', '833', "Isle of Man"),
   ('IL', 'AS', "Israel", 'ISR', '376', "State of Israel"),
-  ('IT', 'EU', "Italy", 'ITA', '380', "Italian Republic"),
+  ('IT', 'EU', "Italy", 'ITA', '380', "Republic of Italy"),
   ('JM', 'NA', "Jamaica", 'JAM', '388', "Jamaica"),
   ('JP', 'AS', "Japan", 'JPN', '392', "Japan"),
   ('JE', 'EU', "Jersey", 'JEY', '832', "Bailiwick of Jersey"),
@@ -270,7 +270,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('UG', 'AF', "Uganda", 'UGA', '800', "Republic of Uganda"),
   ('UA', 'EU', "Ukraine", 'UKR', '804', "Ukraine"),
   ('AE', 'AS', "United Arab Emirates", 'ARE', '784', "United Arab Emirates"),
-  ('GB', 'EU', "United Kingdom of Great Britain & Northern Ireland", 'GBR', '826', "United Kingdom of Great Britain & Northern Ireland"),
+  ('GB', 'EU', "United Kingdom of Great Britain and Northern Ireland", 'GBR', '826', "United Kingdom of Great Britain & Northern Ireland"),
   ('US', 'NA', "United States of America", 'USA', '840', "United States of America"),
   ('UM', 'OC', "United States Minor Outlying Islands", 'UMI', '581', "United States Minor Outlying Islands"),
   ('VI', 'NA', "United States Virgin Islands", 'VIR', '850', "United States Virgin Islands"),
