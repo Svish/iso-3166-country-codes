@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2021-01-21
+  * @updated  2021-01-22
   * @link     http://www.geekality.net/?p=1182
   * @link     https://github.com/Svish/iso-3166-country-codes
   *
@@ -190,7 +190,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('MM', 'AS', "Myanmar", 'MMR', '104', "Republic of the Union of Myanmar"),
   ('NA', 'AF', "Namibia", 'NAM', '516', "Republic of Namibia"),
   ('NR', 'OC', "Nauru", 'NRU', '520', "Republic of Nauru"),
-  ('NP', 'AS', "Nepal", 'NPL', '524', "Federal Democratic Republic of Nepal"),
+  ('NP', 'AS', "Nepal", 'NPL', '524', "Nepal"),
   ('NL', 'EU', "Netherlands", 'NLD', '528', "Kingdom of the Netherlands"),
   ('NC', 'OC', "New Caledonia", 'NCL', '540', "New Caledonia"),
   ('NZ', 'OC', "New Zealand", 'NZL', '554', "New Zealand"),
