@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2022-03-10
+  * @updated  2022-07-12
   * @link     http://www.geekality.net/?p=1182
   * @link     https://github.com/Svish/iso-3166-country-codes
   *
@@ -263,7 +263,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('TO', 'OC', "Tonga", 'TON', '776', "Kingdom of Tonga"),
   ('TT', 'NA', "Trinidad and Tobago", 'TTO', '780', "Republic of Trinidad and Tobago"),
   ('TN', 'AF', "Tunisia", 'TUN', '788', "Tunisian Republic"),
-  ('TR', 'AS', "Turkey", 'TUR', '792', "Republic of Turkey"),
+  ('TR', 'AS', "Türkiye", 'TUR', '792', "Republic of Türkiye"),
   ('TM', 'AS', "Turkmenistan", 'TKM', '795', "Turkmenistan"),
   ('TC', 'NA', "Turks and Caicos Islands", 'TCA', '796', "Turks and Caicos Islands"),
   ('TV', 'OC', "Tuvalu", 'TUV', '798', "Tuvalu"),
