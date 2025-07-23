@@ -1,7 +1,7 @@
 /**
   * Country names, continent names and ISO-3166 codes.
   *
-  * @updated  2024-03-02
+  * @updated  2025-07-23
   * @link     http://www.geekality.net/?p=1182
   * @link     https://github.com/Svish/iso-3166-country-codes
   *
@@ -51,7 +51,7 @@ INSERT INTO `countries` (`code`, `continent_code`, `name`, `iso3`, `number`, `fu
   ('AU', 'OC', "Australia", 'AUS', '036', "Commonwealth of Australia"),
   ('AT', 'EU', "Austria", 'AUT', '040', "Republic of Austria"),
   ('AZ', 'AS', "Azerbaijan", 'AZE', '031', "Republic of Azerbaijan"),
-  ('BS', 'NA', "Bahamas", 'BHS', '044', "Commonwealth of the Bahamas"),
+  ('BS', 'NA', "Bahamas", 'BHS', '044', "Commonwealth of The Bahamas"),
   ('BH', 'AS', "Bahrain", 'BHR', '048', "Kingdom of Bahrain"),
   ('BD', 'AS', "Bangladesh", 'BGD', '050', "People's Republic of Bangladesh"),
   ('BB', 'NA', "Barbados", 'BRB', '052', "Barbados"),
